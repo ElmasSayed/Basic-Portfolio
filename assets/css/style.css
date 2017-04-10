@@ -7,7 +7,7 @@ body{
 	min-width: 960px;
     background-image: url("../images/topography.png");
 }
-
+   
 hr{
 	margin-left: 20px; 
 	margin-right: 20px;
@@ -81,7 +81,7 @@ button{
 #nav li a:visited {
     color: green;
 }
-   
+
 #middle{
 	margin-top: 2px;
 /*	height: auto;
